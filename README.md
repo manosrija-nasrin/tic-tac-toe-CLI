@@ -1,6 +1,6 @@
 # Tic Tac Toe (command line version)
 
-A simple TTT CLI implemented in Python.
+A simple TTT CLI implemented in Python. Has an unbeatable AI feature that makes the best possible moves using the MinMax Algorithm.
 
 ### Status
 
