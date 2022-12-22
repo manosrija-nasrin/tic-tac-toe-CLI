@@ -120,3 +120,10 @@ if __name__ == '__main__':
             ties += 1
     print(
         f"After 50 iterations, we see {x_wins} X wins, {o_wins} O wins and {ties} ties.")
+
+    # x_player = HumanPlayer('X')
+    # o_player = GeniusComputerPlayer('O')
+
+    # tic_tac_toe = TicTacToe()
+
+    # play(tic_tac_toe, x_player, o_player)
